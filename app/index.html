@@ -6,7 +6,7 @@
         <title>Keyboard Heatmap | Realtime heatmap visualization of text character distribution</title>
         <meta name="robots" content="index, follow" />
         <meta name="description" content="This is a demonstration of a keyboard heatmap visualizing character distribution of texts while you're typing" />
-        <meta name="author" content="Patrick Wied" />
+        <meta name="author" content="root" />
         <meta name="keywords" content="heatmap, text heatmap, character distribution, heatmap.js" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="canonical" href="http://www.patrick-wied.at/projects/heatmap-keyboard/" />
@@ -55,6 +55,7 @@
                     <option value="QWERTY" selected>QWERTY Layout</option>
                     <option value="DVORAK">DVORAK Layout</option>
                     <option value="DVORAK_PROGRAMMER">DVORAK Programmer Layout</option>
+                    <option value="DVORAK_PROGRAMMER_EXTENDED">Extended Programmer Dvorak Layout</option>
                     <option value="COLEMAK">COLEMAK Layout</option>
                 </select>
                 <div id="apply" class="button">
@@ -89,6 +90,7 @@
             app.config = {
                 exclude: true
             };
+        </script>
         </script>
         <script src="heatmap.js"></script>
         <script src="keyboard-layouts.js"></script>
