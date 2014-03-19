@@ -4,7 +4,7 @@
 ## To test my [Extended Programmer Dvorak](https://github.com/district10/extended-programmer-dvorak)
 
 
-## Test with books in various categry
+## Test with books in various category
 1. [GNU **Octave** Docs](http://www.gnu.org/software/octave/doc/interpreter/)
 - [**Jane** Eyre](http://www.gutenberg.org/files/1260/1260.txt): 1,070,329 bytes
 - [The Mechanical Properties of **Wood**...](http://www.gutenberg.org/cache/epub/12299/pg12299.txt): 395,712 bytes
